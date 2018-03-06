@@ -8,9 +8,6 @@ Almost all departments within education industry (e. g. admission, administratio
 EduSec helps to assign the responsibilities to employee staff and can reduce time wastage and can speed up the administrative functions. Core functions like admissions, library management, transport management, students attendance in short entire range of university functions can be well performed by EduSec.
 
 
-DOCUMENTATION AND SUPPORT
--------------------------
-* www.rudrasoftech.com/forum
 
 
 SYSTEM REQUIREMENTS
@@ -104,48 +101,5 @@ If you any error/display blank page in browse before installing application.you 
 http://localhost/edusec/edusec-requirements.php
 ~~~
 
-Release Notes
--------------
-> #### EduSec 4.2.6
->	- Point release 4.2.6 : 22/06/2016.
->	- EduSec 4.2.6 is released with security bug-fix for the vulnerability.
 
-> #### EduSec 4.2.5
->	- Point release 4.2.5 : 26/11/2015.
->	- In EduSec 4.2.5 Arabic language with RTL support.
 
-> #### EduSec 4.2.4
->   - Point release 4.2.4 : 17/11/2015
->   - In EduSec 4.2.4 Arabic language is added.
-
-> #### EduSec 4.2.3
->	- Point release 4.2.3 : 07/11/2015
->	- In EduSec 4.2.3 Spanish - Latin American language & new feature bulk student importation feature is added.
-
-> #### EduSec 4.2.2
->	- Point release 4.2.2 : 20/10/2015
->	-EduSec 4.2.2 support Multiple Languages. Right now English, French, Hindi & Gujarati language supported & few bugs resolved
-
-> #### EduSec 4.2.1
->	- Point release 4.2.1 : 04/10/2015
-
-> #### EduSec 4.2.0
->	- Point release 4.2.0 : 30/09/2015
-
-> #### EduSec 4.1.1
->	- Point release 4.1.1 : 02/08/2015
-
-> #### EduSec 4.0.0
->	- Point release 4.0.0 : 31/05/2015
-
-> #### EduSec 3.0.0
->	- Point release 3.0.0 : 04/10/2014
-
-> #### EduSec 2.1.1
->	- Point release 2.1.1 : 15/04/2014
-
-> #### EduSec 2.1.0
->	- Point release 2.1.0 : 16/01/2014
-
-> #### EduSec 2.0.0 #
->	- Point release 2.0.0 : 17/10/2013
