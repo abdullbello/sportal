@@ -84,15 +84,6 @@ which need to go following step to done:
 7. You are now ready to use EduSec.
 
 
-DEMO/SAMPLE DATABASE USERS DETAILS
----------------------------------- 
-
-- ADMIN USER
-	- **Username** : admin@edusec.org **Password** : admin@edusec.org
-- EMPLOYEE USER
-	- **Username** : employee@edusec.org **Password** : employee@edusec.org
-- STUDENT USER
-	- **Username** : student@edusec.org **Password** : student@edusec.org
 
 **NOTE**
 ---------- 
